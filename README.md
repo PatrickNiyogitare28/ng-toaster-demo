@@ -1,6 +1,6 @@
 # NgToasterDemo
 
-The code serves to implement ngxx-toastr in angular
+The code serves to implement ``ngx-toastr`` in angular
 
 
 ## Setting up ngx-toastr
@@ -10,11 +10,11 @@ Run the following commands to install ngx-toastr
 Run the follwing to install angular animations, this is becouse ngx-toastr uses angular animations
 ``npm install @angular/animations --save``
 
-Note: that ngx-toastrs can also be used without angular animations but angular animations are easy to use.
+<b>Note</b>: that <b>ngx-toastr</b> can also be used without angular animations but angular animations are easy to use.
 
 Set up the the ngx-toastr css to `angular.json` for its styles to be compiled
 
-Use the below if you are using  angular cli  6 and above
+Use the below if you are using  angular cli  6 and above, add the second line in ``styles`` under ``styles.scss``
 ```"styles": [
   "styles.scss",
   "node_modules/ngx-toastr/toastr.css"
