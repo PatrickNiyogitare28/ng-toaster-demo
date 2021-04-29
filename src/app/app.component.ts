@@ -21,6 +21,6 @@ export class AppComponent {
     this.toastrService.showWarning(message, 'Warning');
   }
   showInfo(message:string){
-    this.toastrService.showSuccess(message, 'Information');
+    this.toastrService.showInformation(message, 'Information');
   }
 }
