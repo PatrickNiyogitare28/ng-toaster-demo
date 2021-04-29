@@ -45,7 +45,7 @@ In app modules add the below setting in ``imports`` array
  ## To refere to this project
  - clone the repo
  - run ``npm install``
- - open your browser and run ```localhost:4200``
+ - open your browser and run ``localhost:4200``
 
 
  ## For more details
