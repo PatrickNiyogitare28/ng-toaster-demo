@@ -42,7 +42,7 @@ In app modules add the below setting in ``imports`` array
   ],
  ```
  ## Screenshots
- <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(3).png" width="40%">
+ <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(3).png" width="80%">
 
  ## To refere to this project
  - clone the repo
