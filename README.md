@@ -42,9 +42,16 @@ In app modules add the below setting in ``imports`` array
   ],
  ```
  ## Screenshots
+ success button clicked
  <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(3).png" width="100%">
+ 
+ Error button clicked
  <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(4).png" width="100%">
+ 
+ Warning button clicked
  <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(5).png" width="100%">
+ 
+ Information button clicked
  <img src="https://github.com/PatrickNiyogitare28/ng-toaster-demo/blob/main/src/assets/screenshots/Screenshot%20(7).png" width="100%">
 
  ## To refere to this project
