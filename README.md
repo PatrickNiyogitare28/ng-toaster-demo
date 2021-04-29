@@ -10,7 +10,7 @@ Run the following commands to install ngx-toastr
 Run the follwing to install angular animations, this is becouse ngx-toastr uses angular animations
 ``npm install @angular/animations --save``
 
-<b>Note</b>: that <b>ngx-toastr</b> can also be used without angular animations but angular animations are easy to use.
+<b>Note</b>: that ``ngx-toastr`` can also be used without angular animations but angular animations are easy to use.
 
 Set up the the ngx-toastr css to `angular.json` for its styles to be compiled
 
